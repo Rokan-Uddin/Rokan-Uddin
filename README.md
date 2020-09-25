@@ -9,12 +9,7 @@ Passionate about building scalable software,creating effective solutions and lea
 * Back-end: NodeJS,PHP,Laravel
 * Database: MongoDB,MySQL
 
-### You can also find me on
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rokan-uddin.github.io/profile/)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Rokanuddincu/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rokan-uddin-367968170/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
-<br />
+
 
 ### Languages and Tools:
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,6 +31,14 @@ Passionate about building scalable software,creating effective solutions and lea
 ![BK Github stats](https://github-readme-stats.vercel.app/api?username=Rokan-Uddin&show_icons=true&count_private=true) <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rokan-Uddin&layout=compact)
+<br />
+
+### Connect with me
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rokan-uddin.github.io/profile/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Rokanuddincu/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rokan-uddin-367968170/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
+<br />
 <!--
 **Rokan-Uddin/Rokan-Uddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
