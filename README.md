@@ -7,6 +7,7 @@ Passionate about building scalable software,creating effective solutions and lea
 
 * Front-end: React,HTML5,CSS3,Javascript,JQuery,Bootstrap4
 * Back-end: NodeJS,PHP,Laravel
+* Database: MongoDB,MySQL
 
 ### You can also find me on
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rokan-uddin.github.io/profile/)
