@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rokan Uddin
 ###### *Full Stack Developer*
 
-I'm Rokan Uddin,Undergraduate student of University of Chittagong,Depertment of Computer Science & Engineering.Full Stack Developer with some hands-on experience on building websites and web applications.
+I'm Rokan Uddin,Undergraduate student(8th semester) of University of Chittagong,Depertment of Computer Science & Engineering.Full Stack Developer with some hands-on experience on building websites and web applications.
 
 Passionate about building scalable software,creating effective solutions and learning every day to grow professionally in the IT field.
 
